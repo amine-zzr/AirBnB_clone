@@ -42,14 +42,14 @@ button:hover {
 
 .locations h3,
 .amenities h3 {
+	margin: 0;
 	font-weight: 600;
 	margin-top: 16px;
-	margin: 0;
 }
 
 .locations h4,
 .amenities h4 {
+	margin: 0;
 	font-weight: 400;
 	font-size: 14px;
-	margin: 0;
 }
