@@ -53,3 +53,18 @@ button:hover {
 	font-weight: 400;
 	font-size: 14px;
 }
+
+.popover {
+    display: none;
+    position: absolute;
+    background-color: #FAFAFA;
+    width: 100px;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    list-style-type: none;
+}
+
+.locations h2,
+.amenities h2 {
+	font-size: 16px;
+}
